@@ -1,0 +1,6 @@
+*.~PrjPCB
+*.~SchDoc
+/HARD/*.~SchLib
+*.~PcbDoc
+*.LOG
+*.~PcbLib
