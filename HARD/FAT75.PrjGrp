@@ -3,8 +3,4 @@ Version=1.0
 [Project1]
 ProjectPath=..\..\..\Protel\FAT3\FAT3.PRJPCB
 [Project2]
-ProjectPath=..\..\FAT36\HARD\FAT36.PrjPCB
-[Project3]
-ProjectPath=..\..\FAT49\HARD\FAT49.PrjPCB
-[Project4]
 ProjectPath=FAT75.PrjPCB
